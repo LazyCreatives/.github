@@ -23,7 +23,7 @@ account and never change your original projects.
 
 | Tool | What it does |
 |---|---|
-| 💾 **[Backups](https://github.com/LazyCreatives/lazycreatives-backups)** | Verified, deduplicated backups of your DAW projects (Ableton, FL Studio, Reaper, Audacity, and Bitwig or Studio One through DAWproject). Finds every project, follows its samples, and **proves each backup still opens**. No cloud, no account: you own every copy. |
+| 💾 **[Backups](https://github.com/LazyCreatives/lazycreatives-backups)** | Verified, deduplicated backups of your DAW projects (Ableton, FL Studio, Logic Pro, Studio One, Reaper, Audacity, and Bitwig through DAWproject). Finds every project, follows its samples, and **proves each backup still opens**. No cloud, no account: you own every copy. |
 | ☁️ **[Uploader](https://github.com/LazyCreatives/lazycreatives-uploader)** | Posts your finished mixes to SoundCloud **without ever posting the same one twice**, and lets you edit, hide or delete your existing tracks from one place. With Backups installed, each mix knows the project it came from. |
 
 Both are a **free beta** with every feature unlocked, for **Windows**, **Mac (Apple Silicon)**
