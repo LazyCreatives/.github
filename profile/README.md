@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Desktop tools that take the boring, behind-the-scenes work of making music off your plate.</b><br>
+  <b>You make the music. We'll handle the files.</b><br>
   <i>Looks lazy. Works obsessively.</i>
 </p>
 
@@ -18,6 +18,17 @@
 Lazy Creatives builds small, focused **desktop tools for working producers**: the kind that
 handle the admin so you can stay in the music. They run on your own computer, need no
 account and never change your original projects.
+
+## The jobs you stop doing
+
+| The job | By hand | With Lazy Creatives |
+|---|---|---|
+| Seeing everything you've made | Projects spread across drives and music programs | One library to browse and play, no backup needed |
+| Finding an old project | Click through folders on every drive | Every project from every music program in one searchable list |
+| Backing up | Copy folders and hope the samples came too | Every sample followed, the whole project copied, only changes after the first time |
+| Checking the backup works | Find out the day you need it | Every copy read back to check it opens |
+| Which song came from which project | Guess from file names | Each project lists the songs exported from it |
+| Posting to SoundCloud | One song at a time, checking for doubles | One click, and the same song never goes up twice |
 
 ## The tools
 
