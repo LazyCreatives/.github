@@ -23,6 +23,7 @@ account and never change your original projects.
 
 | The job | By hand | With Lazy Creatives |
 |---|---|---|
+| Seeing everything you've made | Projects spread across drives and music programs | One library to browse and play, no backup needed |
 | Finding an old project | Click through folders on every drive | Every project from every music program in one searchable list |
 | Backing up | Copy folders and hope the samples came too | Every sample followed, the whole project copied, only changes after the first time |
 | Checking the backup works | Find out the day you need it | Every copy read back to check it opens |
